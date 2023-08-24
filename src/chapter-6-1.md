@@ -1,5 +1,3 @@
-Measuring the Effectiveness and Benefits of AI-Enabled Writing Improvement for Writing Quality and Quantity
-==========================================================================================================================================================================
 
 As writers increasingly turn to AI technology to enhance their writing, it is important to evaluate the impact of these tools on writing quality and quantity. This chapter will explore methods for measuring the effectiveness and benefits of AI-enabled writing improvement.
 

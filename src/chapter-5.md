@@ -1,5 +1,3 @@
-Chapter 5: Writing Enhancement Strategy with AI
-===============================================
 
 Developing a writing enhancement strategy with AI technology can help writers improve their writing quality, productivity, and efficiency. This chapter will explore key subtopics for designing and implementing an effective writing enhancement plan with AI.
 

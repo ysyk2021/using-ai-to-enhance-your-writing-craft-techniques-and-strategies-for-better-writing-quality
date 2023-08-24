@@ -1,5 +1,3 @@
-Overcoming Implementation Barriers and Resistance to Change with AI-Enabled Personal Change Management and Training
-====================================================================================================================================================================
 
 While AI technology presents significant opportunities for enhancing writing quality and productivity, implementing these tools can sometimes be met with resistance or barriers. This chapter will explore how writers can overcome implementation barriers and resistance to change with AI-enabled personal change management and training.
 

@@ -1,5 +1,3 @@
-Challenges and Risks of AI Adoption in Writing Improvement and How to Overcome Them
-=======================================================================================================================================
 
 As AI technology continues to advance and become more integrated into the writing process, there are several challenges and risks associated with AI adoption in writing improvement. This chapter will explore these challenges and risks, as well as strategies for overcoming them.
 

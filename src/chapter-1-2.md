@@ -1,5 +1,3 @@
-The Benefits and Risks of Using AI for Writing Improvement
-===================================================================================
 
 Artificial Intelligence (AI) technology has become increasingly popular for improving the quality and productivity of writing. This chapter will discuss the benefits and risks associated with using AI technology for writing improvement.
 

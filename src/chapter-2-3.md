@@ -1,5 +1,3 @@
-Tools and Software for AI-Enabled Writing Planning and Performance Tracking
-===========================================================================================================================================
 
 In order to effectively leverage AI technology for writing enhancement, it is important to have the right tools and software in place for planning and tracking writing performance. This chapter will explore some of the key tools and software available for AI-enabled writing planning and performance tracking.
 

@@ -1,5 +1,3 @@
-Different Types of AI Techniques and Platforms for Writing Use Cases
-====================================================================================================================================
 
 AI technology provides writers with a variety of tools and techniques for enhancing the quality and productivity of their writing. This chapter will explore different types of AI techniques and platforms that can be used for writing use cases.
 

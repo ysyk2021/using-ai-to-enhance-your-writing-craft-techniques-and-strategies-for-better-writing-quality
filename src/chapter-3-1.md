@@ -1,5 +1,3 @@
-Improving Language and Grammar with AI-Enabled Proofreading and Editing Tools
-========================================================================================================================================================
 
 AI technology can provide writers with powerful tools for improving the language and grammar of their writing. This chapter will explore key strategies for leveraging AI-enabled proofreading and editing tools to enhance the quality of writing.
 

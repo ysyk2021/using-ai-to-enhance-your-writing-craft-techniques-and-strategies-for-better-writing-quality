@@ -1,5 +1,3 @@
-The Growing Role of AI in Writing
-==========================================================
 
 Artificial Intelligence (AI) technology is having an increasingly significant impact on the field of writing. This chapter will explore the growing role of AI in writing and its implications for writers.
 

@@ -1,5 +1,3 @@
-Basic Principles and Processes of AI Algorithms and Machine Learning Models for Writing Quality and Productivity Enhancement
-============================================================================================================================================================================================
 
 To effectively leverage AI technology for writing enhancement, it is important to have a basic understanding of the principles and processes behind AI algorithms and machine learning models. This chapter will provide an overview of key concepts related to AI technology for writing enhancement.
 

@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Technology for Writing Enhancement
-==============================================================
 
 AI technology provides writers with powerful tools for improving the quality and productivity of their writing. This chapter will explore key subtopics related to understanding AI technology for writing enhancement, including the basic principles and processes of AI algorithms and machine learning models, different types of AI techniques and platforms for writing use cases, and tools and software for AI-enabled writing planning and performance tracking.
 

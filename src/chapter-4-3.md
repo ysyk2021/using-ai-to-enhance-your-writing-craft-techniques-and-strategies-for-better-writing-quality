@@ -1,5 +1,3 @@
-Managing Distractions and Writer's Block with AI-Enabled Distraction-Free Writing Environments and Motivational Support
-=======================================================================================================================================================================================================
 
 Writing productivity is often hindered by distractions and writer's block. Fortunately, AI technology can provide solutions to help writers manage these obstacles and improve their writing output.
 
