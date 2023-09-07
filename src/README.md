@@ -10,3 +10,7 @@ In this book, we will explore various ways in which AI can help writers improve 
 Whether you're a professional writer or just starting out, this book will provide you with practical tips and insights to help you become a better writer. The chapters that follow will delve deeper into specific topics related to using AI to enhance your writing craft, providing you with a comprehensive guide for improving your writing skills.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
