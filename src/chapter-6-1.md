@@ -1,5 +1,4 @@
-Chapter 5: Measuring the Effectiveness and Benefits of AI-Enabled Writing Improvement for Writing Quality and Quantity
-======================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the critical process of measuring the effectiveness and reaping the benefits of AI-powered enhancements in your writing craft. Effective measurement allows you to quantify the impact of AI on writing quality and quantity, validating your investment in AI technologies.
 

@@ -1,5 +1,4 @@
-Chapter 14: Designing and Implementing Your Writing Enhancement Plan with AI-Enabled Strategic Alignment and Resource Allocation
-================================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will guide you through the process of creating and executing a comprehensive writing enhancement plan that leverages AI for strategic alignment and resource allocation, enabling you to achieve better writing quality and quantity.
 

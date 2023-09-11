@@ -1,5 +1,4 @@
-Chapter 4: Streamlining Workflow and Organization with AI-Enabled Writing Assistant and Task Management Tools
-=============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Efficiency and organization are at the heart of any successful writing endeavor. In this chapter, we will explore how AI-powered writing assistants and task management tools can be invaluable assets in enhancing your writing craft, allowing you to produce both higher quality and greater quantities of written work.
 

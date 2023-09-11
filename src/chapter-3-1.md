@@ -1,5 +1,4 @@
-Chapter 17: Improving Language and Grammar with AI-Enabled Proofreading and Editing Tools
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the valuable role that AI-enabled proofreading and editing tools play in enhancing the language and grammar aspects of your writing, resulting in improved writing quality and quantity.
 

@@ -1,5 +1,4 @@
-Chapter 15: Increasing Creativity and Originality with AI-Powered Idea Generation and Inspiration
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the exciting realm of AI-powered idea generation and inspiration techniques that can elevate your writing creativity and enhance the originality of your work.
 

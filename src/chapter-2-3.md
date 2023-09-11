@@ -1,5 +1,4 @@
-Chapter 8: Tools and Software for AI-Enabled Writing Planning and Performance Tracking
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the essential tools and software available to writers for planning their AI-enabled writing projects and tracking performance effectively. These tools are invaluable for optimizing writing quality and quantity.
 

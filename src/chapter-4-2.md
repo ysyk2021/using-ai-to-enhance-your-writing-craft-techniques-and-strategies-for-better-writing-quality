@@ -1,5 +1,4 @@
-Chapter 7: Boosting Speed and Efficiency with AI-Enabled Text Generation and Automation
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore how AI empowers writers to enhance their speed and efficiency by leveraging text generation and automation tools. These AI-driven techniques can significantly increase writing productivity while maintaining quality.
 

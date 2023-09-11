@@ -1,5 +1,4 @@
-Chapter 11: Emerging Trends and Opportunities in AI for Writing Enhancement
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the cutting-edge trends and exciting opportunities in the field of AI for enhancing writing quality and quantity. Stay ahead of the curve by discovering the latest advancements that can revolutionize your writing craft.
 

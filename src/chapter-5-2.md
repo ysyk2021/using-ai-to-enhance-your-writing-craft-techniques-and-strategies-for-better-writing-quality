@@ -1,5 +1,4 @@
-Chapter 12: Overcoming Implementation Barriers and Resistance to Change with AI-Enabled Personal Change Management and Training
-===============================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the challenges of implementing AI for writing enhancement and explore strategies to overcome resistance to change. Discover how personal change management and targeted training can empower individuals and organizations to embrace AI effectively.
 

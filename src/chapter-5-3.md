@@ -1,5 +1,4 @@
-Chapter 10: Leveraging AI Insights and Analytics for Continuous Writing Improvement and Optimization
-====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the power of AI insights and analytics to drive continuous improvement and optimization of your writing craft. Discover how AI can provide valuable feedback, data-driven insights, and actionable recommendations to elevate the quality and quantity of your written work.
 

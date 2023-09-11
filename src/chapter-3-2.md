@@ -1,5 +1,4 @@
-Chapter 16: Enhancing Clarity and Coherence with AI-Enabled Style and Structural Analysis
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore how AI can be harnessed to improve the clarity and coherence of your writing by providing advanced style and structural analysis tools and strategies.
 

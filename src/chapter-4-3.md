@@ -1,5 +1,4 @@
-Chapter 6: Managing Distractions and Writer's Block with AI-Enabled Distraction-Free Writing Environments and Motivational Support
-==================================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the challenges of distractions and writer's block that often plague writers, and explore how AI can provide solutions through distraction-free writing environments and motivational support, ultimately enhancing your writing craft.
 
